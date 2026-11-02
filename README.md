@@ -46,7 +46,7 @@ This project involves cleaning the Global Superstore dataset and building an int
 - Excel/CSV
 
 ## 🖼️ Dashboard Preview
-![Dashboard](screenshots/Global_Superstore_Sales_Dashboard_1.png)
+![Dashboard](Global_Superstore_Sales_Dashboard_1.png)
 
 ## 👤 Author
 **Poonam Bhosale** | [LinkedIn](https://www.linkedin.com/in/poonam-bhosale-307707304)
